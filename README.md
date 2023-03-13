@@ -21,3 +21,4 @@ Repositorio con archivos necesarios para visualizar el esquematico y PCB del cir
 
 * [BOM_v1](BOM_v1): Lista detallada con los componentes y su precio, dando un estimado del presupuesto necesario para su fabricación.
 
+* [Documento_de_diseno](Documento_de_diseno): Documento que respalda el diseño y desarrollo del circuito implementado en la PCB
